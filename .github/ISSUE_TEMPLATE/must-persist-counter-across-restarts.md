@@ -1,6 +1,6 @@
 ---
 name: Must persist counter across restarts
-about: Describe this issue template's purpose here.
+about: Counter restarts
 title: ''
 labels: ''
 assignees: ''
