@@ -1,5 +1,5 @@
 ---
-name: Need a service that has a counter
+name: Must allow multiple counters
 about: This template is for creating user stories
 title: ''
 labels: ''
@@ -7,12 +7,14 @@ assignees: ''
 
 ---
 
-**As a** user 
- **I need** a service that has a counter
- **So that** So that I can keep track of how many times something was done. 
+**As a** User
+ **I need** to have multiple counters
+ **So that** I can keep track of several counts at once.
    
  ### Details and Assumptions
- * [document what you know]
+ *Deploy service to the cloud.
+Need the ability to remove a counter.
+Need the ability to update a counter to a new value.
    
  ### Acceptance Criteria  
    
