@@ -1,5 +1,5 @@
 ---
-name: User Story
+name: Need a service that has a counter
 about: This template is for creating user stories
 title: ''
 labels: ''
@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+**As a** user 
+ **I need** a service that has a counter
+ **So that** So that I can keep track of how many times something was done. 
    
  ### Details and Assumptions
  * [document what you know]
